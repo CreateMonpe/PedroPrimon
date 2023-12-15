@@ -29,7 +29,7 @@ Sou estudante de Sistemas de Informação na São Paulo Tech School, atualmente 
 
 ## Habilidades Técnicas
 - Linguagens de Programação: Python, Kotlin, JavaScript, 
-- Ferramentas e Tecnologias: SQL Server, MySQL, Git, Docker, AWS
+- Ferramentas e Tecnologias: SQL Server, MySQL, Git, Docker, AWS, Arduíno, PowerShell
 - Desenvolvimento Web: Proficiente em HTML para marcação e estruturação de páginas web e CSS para estilização e design. Além disso, estou explorando React.
 
 ## Projetos Relevantes
