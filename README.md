@@ -35,7 +35,6 @@ Sou estudante de Sistemas de Informação na São Paulo Tech School, atualmente 
 ## Projetos Relevantes
 - SecureATM: Desenvolvi um sistema híbrido (Python e Kotlin) para monitorar e gerenciar caixas eletrônicos. O sistema realiza monitoramento em tempo real, detecta e previne falhas através de algoritmos inteligentes. Oferece gerenciamento remoto para ajustes e atualizações ágeis. Enfoque em segurança e estabilidade para reduzir interrupções no serviço. Requeriu habilidades avançadas em programação e compreensão detalhada dos caixas eletrônicos. Estou confiante de que essa solução otimizará a eficiência e confiabilidade dos sistemas de caixas eletrônicos.
 <br>
-## link do repositório: <br>
 https://github.com/orgs/ProjectSecureATM/repositories
 
 <br>
